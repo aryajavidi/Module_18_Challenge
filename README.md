@@ -3,7 +3,7 @@
 ## Overview of the analysis: 
 ### Explain the purpose of this analysis.
 
-Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. The purpose of this analysis is to investigate how the factors present in our loan stats CSV predict low or high risk loans. Using randomoversampler and smote algorithms in order to resample the dataset, view the count of the target classes, train a logistic regression classifier, calculate the balanced accuracy score, generate a confusion matrix, and generate a classification report ultimately to to predict credit risk. We then compared different models to minimize bias in predicting credit risk.
+Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. The purpose of this analysis is to investigate how the factors present in our loan stats CSV predict low or high risk loans. Using randomoversampler and smote algorithms in order to resample the dataset, view the count of the target classes, train a logistic regression classifier, calculate the balanced accuracy score, generate a confusion matrix, and generate a classification report we can ultimately predict risk. We then compared different models to minimize bias in predicting credit risk.
 
 
 
